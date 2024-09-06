@@ -77,8 +77,8 @@ MuseScore {
 
     requiresScore: true
 
-    width: 464
-    height: 298
+    width: 800
+    height: 400
 
     // Settings
     Settings {
